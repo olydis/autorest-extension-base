@@ -13,7 +13,7 @@ extension.Add("plugin-name", async autoRestApi => {
   // plugin implementation
   // Available functions:
   // * Information retrieval:
-  //       autoRestApi.ListFiles
+  //       autoRestApi.ListInputs
   //       autoRestApi.ReadFile
   //       autoRestApi.GetValue
   // * Information submission:
