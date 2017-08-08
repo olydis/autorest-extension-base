@@ -1,6 +1,6 @@
 # AutoRest Extension Base
 
-Allows to easily create an AutoRest extension.
+Allows to easily create an AutoRest extension. See https://github.com/olydis/autorest-extension-helloworld for an example of how to reference and use this package.
 
 ## Usage
 
